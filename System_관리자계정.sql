@@ -2,6 +2,8 @@
 CREATE USER DDL IDENTIFIED BY DDL;
 
 CREATE USER KH IDENTIFIED BY KH;
+
+
 /*
     계정을 생성하는 구문, 일반사용자 계정은 오직 관리자 계정에서 만들 수 있음
     생성방법[표현법]
